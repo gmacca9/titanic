@@ -6,7 +6,7 @@ This Kedro project uses data from the Kaggle's challenge "Titanic - Machine Lear
 
 In their site (https://www.kaggle.com/competitions/titanic/overview) you can download this data and learn more about it.
 
-In this repository, the raw data is located in data\01_raw.
+In this repository, the raw data is located in data/01_raw.
 
 Take a look at the [Kedro documentation](https://kedro.readthedocs.io) to get started.
 
