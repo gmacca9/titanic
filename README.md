@@ -2,7 +2,11 @@
 
 ## Overview
 
-This is your new Kedro project, which was generated using `Kedro 0.18.1`.
+This Kedro project uses data from the Kaggle's challenge "Titanic - Machine Learning from Disaster".
+
+In their site (https://www.kaggle.com/competitions/titanic/overview) you can download this data and learn more about it.
+
+In this repository, the raw data is located in data\01_raw.
 
 Take a look at the [Kedro documentation](https://kedro.readthedocs.io) to get started.
 
